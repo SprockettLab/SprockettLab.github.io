@@ -451,34 +451,19 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-microbiome-assembly-in-early-life",
           title: 'Microbiome Assembly in Early Life',
-          description: "Where do our microbiomes come from?",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-the-cancer-microbiome",
-          title: 'The Cancer Microbiome',
-          description: "cancer immunotherapy, immune development, and microbial exposure",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-social-microbiome-transmission",
           title: 'Social Microbiome Transmission',
-          description: "Can we spread health by transmitting commensals?",
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-reproducible-research",
-          title: 'Reproducible Research',
-          description: "making microbiome data F.A.I.R.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-microbiome-amp-host-metabolism",
-          title: 'Microbiome &amp;amp; Host Metabolism',
-          description: "microbes in visceral adipose tissue",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-evolution-in-the-microbiome",
           title: 'Evolution in the Microbiome',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
