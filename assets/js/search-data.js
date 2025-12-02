@@ -37,13 +37,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/news/";
               },
-            },{id: "dropdown-blog",
-              title: "Blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
             },{id: "dropdown-publications",
               title: "Publications",
               description: "",
@@ -454,9 +447,9 @@ ninja.data = [{
           description: "cancer immunotherapy, immune development, and microbial exposure",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-host-species-specificity-of-the-gut-microbiome",
-          title: 'Host-Species Specificity of the Gut Microbiome',
-          description: "",
+            },},{id: "projects-social-microbiome-transmission",
+          title: 'Social Microbiome Transmission',
+          description: "Can we spread health by transmitting commensals?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-reproducible-research",
@@ -469,6 +462,11 @@ ninja.data = [{
           description: "microbes in visceral adipose tissue",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-evolution-in-the-microbiome",
+          title: 'Evolution in the Microbiome',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
