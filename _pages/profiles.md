@@ -47,7 +47,7 @@ profiles:
     image_circular: True # crops the image to make it circular
     more_info: >
       <p>Juliana Lawandos</p>
-      <p>Rotating PhD Student</p>
+      <p>Rotating MCB PhD Student</p>
 
   - align: left
     image: Tuli_pic.jpg
@@ -55,5 +55,5 @@ profiles:
     image_circular: True # crops the image to make it circular
     more_info: >
       <p>Samayeta Tuli</p>
-      <p>Rotating PhD Student</p>
+      <p>Rotating MCB PhD Student</p>
 ---
