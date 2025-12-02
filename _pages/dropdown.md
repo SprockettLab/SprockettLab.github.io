@@ -11,9 +11,6 @@ children:
   - title: News
     permalink: /news/
   - title: divider
-  - title: Blog
-    permalink: /blog/
-  - title: divider
   - title: Publications
     permalink: /publications/
   - title: divider
