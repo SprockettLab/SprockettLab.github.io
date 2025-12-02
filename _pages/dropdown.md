@@ -8,6 +8,9 @@ children:
   - title: Teaching
     permalink: /teaching/
   - title: divider
+  - title: News
+    permalink: /news/
+  - title: divider
   - title: Blog
     permalink: /blog/
   - title: divider
