@@ -1,18 +1,14 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Microbiome Assembly in Early Life
+description: Where do our microbiomes come from?
+img: assets/img/microbes_1.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Why focus on babies? This early period represents a critical window for immune training, metabolic programming, and developmental processes that set the stage for lifelong health. Our research integrates microbial ecology, host-microbe interactions, and genome evolution to identify the processes that shape our microbiome from birth. Our goal is to identify the ecological and evolutionary forces that underlie early colonization, succession, and stabilization of the microbiome — and how these processes may vary across individuals, populations and cultures, and even host species.
 
     ---
     layout: page
