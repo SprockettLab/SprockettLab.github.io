@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Host-Species Specificity of the Gut Microbiome
-description: a project that redirects to another website
+description:
 img: assets/img/7.jpg
 importance: 3
 category: work
