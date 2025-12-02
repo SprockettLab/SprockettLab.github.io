@@ -51,9 +51,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-team",
+          title: "Team",
+          description: "Lab Members",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -484,7 +484,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-host-species-specificity-of-the-gut-microbiome",
           title: 'Host-Species Specificity of the Gut Microbiome',
-          description: "a project that redirects to another website",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-reproducible-research",
