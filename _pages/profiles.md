@@ -41,7 +41,7 @@ profiles:
       <p>Alayna Lisbon</p>
       <p>Biomedical Science Masters Student</p>
 
-  - align: Right
+  - align: right
     image: Lawandos_pic.jpg
     content: about_Lawandos.md
     image_circular: True # crops the image to make it circular
@@ -49,7 +49,7 @@ profiles:
       <p>Juliana Lawandos</p>
       <p>Rotating PhD Student</p>
 
-  - align: Left
+  - align: left
     image: Tuli_pic.jpg
     content: about_Tuli.md
     image_circular: True # crops the image to make it circular
