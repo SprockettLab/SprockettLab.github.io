@@ -2,6 +2,6 @@
 
 <div align="center">
 
-**[The Sprockett Lab](https://www.sprockettlab.com/.com/)**
+_[The Sprockett Lab](https://www.sprockettlab.com/)_
 
 </div>
