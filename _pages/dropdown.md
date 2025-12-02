@@ -5,9 +5,6 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Teaching
-    permalink: /teaching/
-  - title: divider
   - title: News
     permalink: /news/
   - title: divider
@@ -16,6 +13,9 @@ children:
   - title: divider
   - title: Code
     permalink: /repositories/
+  - title: divider
+  - title: Teaching
+    permalink: /teaching/
   - title: divider
   - title: Contact
     permalink: /contact/
