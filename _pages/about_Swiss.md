@@ -1,5 +1,1 @@
-Bachelor of Science in Biological Sciences & Minor in Microbiology from Clemson University
-
-Research Scientist at Elastrin Therapeutics
-
-Master of Science in Microbiology and Immunology from Virginia Commonwealth University
+Alyssa earned her Bachelor's degree in Biological Sciences with a minor in Microbiology at Clemson University in 2021. Afterwards, she worked in the biotech industry as a Research Scientist at Elastrin Therapuetics, where she performed research and development on drug-loaded nanoparticles to reverse cardiovascular disease. Following her work at Elastrin Therapeutics, she earned her Master's degree in Microbiology and Immunology from Virginia Commonwealth University in 2025. Under Dr. Richard Marconi, she developed chimeric epitope-based diagnostic antigens for detecting Ehrlichiosis and Anaplasmosis in canines. These prominent tick-borne pathogens affect thousands of dogs annually, and current diagnostics on the market have low sensitivity in reliably detecting infection. She joined Dr. Daniel Sprockett's lab at Wake Forest University in July 2025, where she works as Lab Manager and Researcher studying the ecology and evolution of the human microbiome. When she's not working in the lab, you can find her spending time with her husband and two cats, running, or going to yoga classes!
