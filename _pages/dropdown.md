@@ -19,4 +19,7 @@ children:
   - title: divider
   - title: Code
     permalink: /repositories/
+  - title: divider
+  - title: Contact
+    permalink: /contact/
 ---

@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: What we do.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [microbiome, data]
 horizontal: false
 ---
