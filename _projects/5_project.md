@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Microbiome & Host Metabolism
+description: microbes in visceral adipose tissue
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: data
 ---
 
 Every project has a beautiful feature showcase page.
