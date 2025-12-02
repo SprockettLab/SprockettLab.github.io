@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -24,14 +24,14 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "What we do.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
+        },{id: "nav-code",
+          title: "Code",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -45,8 +45,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Teaching",
+          description: "Materials for courses, workshops, and webinars.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -64,6 +64,13 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/teaching/";
+              },
+            },{id: "dropdown-news",
+              title: "News",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/news/";
               },
             },{id: "dropdown-blog",
               title: "Blog",
