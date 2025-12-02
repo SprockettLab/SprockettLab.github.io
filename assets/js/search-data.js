@@ -458,8 +458,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-phd-student-tuli-started-her-research-rotation-in-the-lab-welcome-tuli-sunglasses",
-          title: 'PhD student Tuli started her research rotation in the lab. Welcome Tuli! :sunglasses:...',
+            },},{id: "news-dan-gave-the-biological-sciences-seminar-at-kent-state-university",
+          title: 'Dan gave the Biological Sciences Seminar at Kent State University.',
           description: "",
           section: "News",},{id: "news-phd-student-tuli-started-her-research-rotation-in-the-lab-welcome-tuli-sunglasses",
           title: 'PhD student Tuli started her research rotation in the lab. Welcome Tuli! :sunglasses:...',
