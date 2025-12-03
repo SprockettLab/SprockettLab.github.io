@@ -1,1 +1,1 @@
-Bachelor of Science in Biology from the University of West Georgia
+Alayna Lisbon is a graduate student in the Biomedical Sciences Master's Program at Wake Forest School of Medicine. She earned her Bachelor of Science in Biology with a minor in Chemistry from the University of West Georgia. Her research interests include microbiology, immunology, and cancer biology.
