@@ -2,7 +2,7 @@
 layout: page
 title: Microbiome Assembly in Early Life
 description:
-img: assets/img/microbes_1.jpg
+img: assets/img/projects/Tsimane_Fig4.png
 importance: 1
 category: microbiome
 related_publications: true
