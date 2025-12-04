@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Team
-description: Sprockett Lab Members
+description: Current Sprockett Lab Members
 nav: true
 nav_order: 2
 
@@ -16,6 +16,7 @@ profiles:
     more_info: >
       <p>Daniel Sprockett, PhD, MSc</p>
       <p>Assistant Professor</p>
+      <p>Department of Microbiology & Immunology</p>
 
   - align: left
     image: Swiss_pic.jpg
