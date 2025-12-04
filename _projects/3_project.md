@@ -2,7 +2,7 @@
 layout: page
 title: Evolution in the Microbiome
 description:
-img: assets/img/microbes_1.jpg
+img: assets/img/projects/RodentCodiv_Fig2.png
 importance: 1
 category: microbiome
 related_publications: true
