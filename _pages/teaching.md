@@ -13,4 +13,4 @@ nav_order: 6
 
 ## December 5, 2025
 
-Download the helper script [download_sra.sh](assets/scripts/download_sra.sh)
+Download the helper script [download_sra.sh](/assets/scripts/download_sra.sh)
