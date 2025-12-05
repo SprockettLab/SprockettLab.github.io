@@ -7,4 +7,10 @@ nav: false
 nav_order: 6
 ---
 
-Future site for links to courses, workshops, and webinars.
+# Microbiome Data Club Workshop:
+
+## Introduction to Amplicon Profiling
+
+## December 5, 2025
+
+Download the helper script [download_sra.sh](assets/scripts/download_sra.sh)
