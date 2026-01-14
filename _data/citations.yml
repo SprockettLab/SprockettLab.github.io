@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-07'
+  last_updated: '2026-01-14'
 papers:
   2kfaOjwAAAAJ:0EnyYjriUFMC:
     citations: 35
@@ -10,7 +10,7 @@ papers:
     title: Host genotype links to salivary and gut microbiota by periodontal status
     year: '2023'
   2kfaOjwAAAAJ:4DMP91E08xMC:
-    citations: 0
+    citations: 1
     title: Hackflex library preparation enables low-cost metagenomic profiling
     year: '2024'
   2kfaOjwAAAAJ:5nxA0vEk-isC:
@@ -58,7 +58,7 @@ papers:
     title: The effect of microbial colonization on the host proteome varies by gastrointestinal location
     year: '2016'
   2kfaOjwAAAAJ:ULOm3_A8WrAC:
-    citations: 22
+    citations: 23
     title: "Home-site advantage for host species\u2013specific gut microbiota"
     year: '2023'
   2kfaOjwAAAAJ:UeHWp8X0CEIC:
@@ -74,7 +74,7 @@ papers:
     title: Mia Jaffe
     year: Unknown Year
   2kfaOjwAAAAJ:WF5omc3nYNoC:
-    citations: 433
+    citations: 434
     title: Role of priority effects in the early-life assembly of the gut microbiota
     year: '2018'
   2kfaOjwAAAAJ:Wp0gIr-vW9MC:
@@ -86,7 +86,7 @@ papers:
     title: Comparison of pectin-degrading fungal communities in temperate forests using glycosyl hydrolase family 28 pectinase primers targeting Ascomycete fungi
     year: '2016'
   2kfaOjwAAAAJ:YOwf2qJgpHMC:
-    citations: 6
+    citations: 7
     title: 'When microbes go missing: Understanding the impact of diversity loss within the gut microbiome'
     year: '2023'
   2kfaOjwAAAAJ:YsMSGLbcyi4C:
@@ -130,7 +130,7 @@ papers:
     title: Use of 16S rRNA sequencing and quantitative PCR to correlate venous leg ulcer bacterial bioburden dynamics with wound expansion, antibiotic therapy, and healing
     year: '2015'
   2kfaOjwAAAAJ:qxL8FJ1GzNcC:
-    citations: 29
+    citations: 30
     title: Female behavior drives the formation of distinct social structures in C57BL/6J versus wild-derived outbred mice in field enclosures
     year: '2024'
   2kfaOjwAAAAJ:roLk4NBRz8UC:
