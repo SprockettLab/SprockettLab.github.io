@@ -1,0 +1,1 @@
+Christina Nestor is an undergraduate Pre-medical student at Wake Forest University. She is majoring in Health and Exercise Science with a minor in Chemistry. Christina is interested in the human microbiome and learning fundamental lab techniques.
