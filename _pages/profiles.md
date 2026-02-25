@@ -57,4 +57,28 @@ profiles:
     more_info: >
       <p>Samayeta Tuli</p>
       <p>Rotating MCB PhD Student</p>
+
+  - align: right
+    image: Molchan_pic.jpeg
+    content: about_Molchan.md
+    image_circular: True # crops the image to make it circular
+    more_info: >
+      <p>Elizabeth Molchan</p>
+      <p>Rotating MCB PhD Student</p>
+
+  - align: left
+    image: Arnold_pic.jpeg
+    content: about_Arnold.md
+    image_circular: True # crops the image to make it circular
+    more_info: >
+      <p>Simmons Arnold</p>
+      <p>Wake Forest University Undergraduate</p>
+
+  - align: right
+    image: Nestor_pic.jpeg
+    content: about_Nestor.md
+    image_circular: True # crops the image to make it circular
+    more_info: >
+      <p>Christina Nestor</p>
+      <p>Wake Forest University Undergraduate</p>
 ---
