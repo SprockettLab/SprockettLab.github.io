@@ -473,10 +473,20 @@ ninja.data = [{
           section: "News",},{id: "news-phd-student-lizzie-molchan-started-her-research-rotation-in-the-lab-welcome-lizzie-sunglasses",
           title: 'PhD student Lizzie Molchan started her research rotation in the lab. Welcome Lizzie!...',
           description: "",
-          section: "News",},{id: "news-dan-gave-a-seminar-at-the-unc-department-of-biology-hosted-by-the-yitbarek-lab",
+          section: "News",},{id: "news-dan-presents-at-sherwood-forest-elementary-career-day",
+          title: 'Dan Presents at Sherwood Forest Elementary Career Day',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_17/";
+            },},{id: "news-dan-gave-a-seminar-at-the-unc-department-of-biology-hosted-by-the-yitbarek-lab",
           title: 'Dan gave a Seminar at the UNC Department of Biology hosted by the...',
           description: "",
-          section: "News",},{id: "projects-microbiome-assembly-in-early-life",
+          section: "News",},{id: "news-alyssa-and-dan-visit-the-vervet-monkeys",
+          title: 'Alyssa and Dan Visit the Vervet Monkeys',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_18/";
+            },},{id: "projects-microbiome-assembly-in-early-life",
           title: 'Microbiome Assembly in Early Life',
           description: "",
           section: "Projects",handler: () => {
