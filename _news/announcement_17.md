@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Today Dan visited Sherwood Forest Elementary School to talk to the kids about careers in science, and gave a hands-on in a presentation titled _Lets Learn About Germs!_
+Today Dan visited Sherwood Forest Elementary School to talk to the kids about being a scientist, and gave a hands-on presentation titled _"Lets Learn About Germs!"_
 
 ---
 
