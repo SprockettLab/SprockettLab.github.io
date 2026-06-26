@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-06-26'
 papers:
   2kfaOjwAAAAJ:0EnyYjriUFMC:
-    citations: 42
+    citations: 45
     title: Influential factors of saliva microbiota composition
     year: '2022'
   2kfaOjwAAAAJ:3fE2CSJIrl8C:
@@ -17,6 +17,10 @@ papers:
     citations: 6
     title: Spatial and social structure of rewilded laboratory mice
     year: '2022'
+  2kfaOjwAAAAJ:7PzlFSSx8tAC:
+    citations: 0
+    title: Treatment-Specific Composition of Gut Microbiota Is Associated with Disease Remission in a Pediatric Crohn's Disease Cohort
+    year: '2018'
   2kfaOjwAAAAJ:8k81kl-MbHgC:
     citations: 1
     title: Microbiota Assembly, Structure, and Dynamics Among Tsimane Horticulturalists of the Bolivian Amazon
@@ -30,7 +34,7 @@ papers:
     title: Detailed longitudinal sampling of the wound microbiome reveals increased bacterial diversity with antimicrobial treatment and healing
     year: '2013'
   2kfaOjwAAAAJ:KlAtU1dfN6UC:
-    citations: 15
+    citations: 16
     title: "Convergent remodelling of the gut microbiome is associated with host energetic condition over long\u2010distance migration"
     year: '2023'
   2kfaOjwAAAAJ:LkGwnXOMwfcC:
@@ -38,7 +42,7 @@ papers:
     title: Microbiota assembly, structure, and dynamics among Tsimane horticulturalists of the Bolivian Amazon
     year: '2020'
   2kfaOjwAAAAJ:M3ejUd6NZC8C:
-    citations: 2
+    citations: 3
     title: Removal of sequencing adapter contamination improves microbial genome databases
     year: '2024'
   2kfaOjwAAAAJ:MXK_kJrjxJIC:
@@ -74,7 +78,7 @@ papers:
     title: Mia Jaffe
     year: Unknown Year
   2kfaOjwAAAAJ:WF5omc3nYNoC:
-    citations: 455
+    citations: 467
     title: Role of priority effects in the early-life assembly of the gut microbiota
     year: '2018'
   2kfaOjwAAAAJ:Wp0gIr-vW9MC:
@@ -90,11 +94,11 @@ papers:
     title: 'When microbes go missing: Understanding the impact of diversity loss within the gut microbiome'
     year: '2023'
   2kfaOjwAAAAJ:YsMSGLbcyi4C:
-    citations: 56
+    citations: 57
     title: Characterization of the facial microbiome in twins discordant for rosacea
     year: '2018'
   2kfaOjwAAAAJ:Zph67rFs4hoC:
-    citations: 56
+    citations: 58
     title: Widespread extinctions of co-diversified primate gut bacterial symbionts from humans
     year: '2023'
   2kfaOjwAAAAJ:_FxGoFyzp5QC:
@@ -113,6 +117,10 @@ papers:
     citations: 2
     title: The evolution of fungal pectinases in Glycosyl Hydrolase Family 28 and their association with ecological strategy
     year: '2009'
+  2kfaOjwAAAAJ:dhFuZR0502QC:
+    citations: 10
+    title: "Widespread extinctions of co-diversified primate gut bacterial symbionts from humans. Nat Microbiol 8: 1039\u20131050"
+    year: '2023'
   2kfaOjwAAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: 'An integrative approach to understanding primate mating systems: oxytocin and New World monkeys.'
@@ -122,15 +130,15 @@ papers:
     title: 'Microbiomes: Infant chimps crawling with bacteria'
     year: '2021'
   2kfaOjwAAAAJ:mVmsd5A6BfQC:
-    citations: 5
+    citations: 6
     title: A cost and community perspective on the barriers to microbiome data reuse
     year: '2025'
   2kfaOjwAAAAJ:qjMakFHDy7sC:
-    citations: 29
+    citations: 30
     title: Use of 16S rRNA sequencing and quantitative PCR to correlate venous leg ulcer bacterial bioburden dynamics with wound expansion, antibiotic therapy, and healing
     year: '2015'
   2kfaOjwAAAAJ:qxL8FJ1GzNcC:
-    citations: 36
+    citations: 40
     title: Female behavior drives the formation of distinct social structures in C57BL/6J versus wild-derived outbred mice in field enclosures
     year: '2024'
   2kfaOjwAAAAJ:roLk4NBRz8UC:
