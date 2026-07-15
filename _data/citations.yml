@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-15'
 papers:
   2kfaOjwAAAAJ:0EnyYjriUFMC:
     citations: 46
@@ -34,7 +34,7 @@ papers:
     title: Detailed longitudinal sampling of the wound microbiome reveals increased bacterial diversity with antimicrobial treatment and healing
     year: '2013'
   2kfaOjwAAAAJ:KlAtU1dfN6UC:
-    citations: 17
+    citations: 18
     title: "Convergent remodelling of the gut microbiome is associated with host energetic condition over long\u2010distance migration"
     year: '2023'
   2kfaOjwAAAAJ:LkGwnXOMwfcC:
@@ -50,7 +50,7 @@ papers:
     title: Local adaptation of host-species specific gut microbiota
     year: '2022'
   2kfaOjwAAAAJ:QIV2ME_5wuYC:
-    citations: 1
+    citations: 3
     title: Prehistoric Global Migration of Vanishing Gut Microbes With Humans
     year: '2025'
   2kfaOjwAAAAJ:Se3iqnhoufwC:
@@ -78,11 +78,11 @@ papers:
     title: Mia Jaffe
     year: Unknown Year
   2kfaOjwAAAAJ:WF5omc3nYNoC:
-    citations: 467
+    citations: 471
     title: Role of priority effects in the early-life assembly of the gut microbiota
     year: '2018'
   2kfaOjwAAAAJ:Wp0gIr-vW9MC:
-    citations: 8
+    citations: 9
     title: Recent genetic drift in the co-diversified gut bacterial symbionts of laboratory mice
     year: '2025'
   2kfaOjwAAAAJ:Y0pCki6q_DkC:
@@ -98,7 +98,7 @@ papers:
     title: Characterization of the facial microbiome in twins discordant for rosacea
     year: '2018'
   2kfaOjwAAAAJ:Zph67rFs4hoC:
-    citations: 58
+    citations: 59
     title: Widespread extinctions of co-diversified primate gut bacterial symbionts from humans
     year: '2023'
   2kfaOjwAAAAJ:_FxGoFyzp5QC:
@@ -138,7 +138,7 @@ papers:
     title: Use of 16S rRNA sequencing and quantitative PCR to correlate venous leg ulcer bacterial bioburden dynamics with wound expansion, antibiotic therapy, and healing
     year: '2015'
   2kfaOjwAAAAJ:qxL8FJ1GzNcC:
-    citations: 42
+    citations: 44
     title: Female behavior drives the formation of distinct social structures in C57BL/6J versus wild-derived outbred mice in field enclosures
     year: '2024'
   2kfaOjwAAAAJ:roLk4NBRz8UC:
@@ -154,7 +154,7 @@ papers:
     title: 'Circadian input kinases and their homologs in Cyanobacteria: evolutionary constraints versus architectural diversification'
     year: '2010'
   2kfaOjwAAAAJ:ufrVoPGSRksC:
-    citations: 44
+    citations: 45
     title: "Treatment-specific composition of the gut microbiota is associated with disease remission in a pediatric Crohn\u2019s disease cohort"
     year: '2019'
   2kfaOjwAAAAJ:zYLM7Y9cAGgC:
