@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-07'
 papers:
   2kfaOjwAAAAJ:0EnyYjriUFMC:
     citations: 46
     title: Influential factors of saliva microbiota composition
     year: '2022'
   2kfaOjwAAAAJ:3fE2CSJIrl8C:
-    citations: 15
+    citations: 14
     title: Host genotype links to salivary and gut microbiota by periodontal status
     year: '2023'
   2kfaOjwAAAAJ:4DMP91E08xMC:
-    citations: 1
+    citations: 2
     title: Hackflex library preparation enables low-cost metagenomic profiling
     year: '2024'
   2kfaOjwAAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: Detailed longitudinal sampling of the wound microbiome reveals increased bacterial diversity with antimicrobial treatment and healing
     year: '2013'
   2kfaOjwAAAAJ:KlAtU1dfN6UC:
-    citations: 18
+    citations: 19
     title: "Convergent remodelling of the gut microbiome is associated with host energetic condition over long\u2010distance migration"
     year: '2023'
   2kfaOjwAAAAJ:LkGwnXOMwfcC:
@@ -50,15 +50,15 @@ papers:
     title: Local adaptation of host-species specific gut microbiota
     year: '2022'
   2kfaOjwAAAAJ:QIV2ME_5wuYC:
-    citations: 3
-    title: Prehistoric Global Migration of Vanishing Gut Microbes With Humans
+    citations: 4
+    title: Prehistoric global migration of vanishing gut microbes with humans
     year: '2025'
   2kfaOjwAAAAJ:Se3iqnhoufwC:
     citations: 0
     title: Circadian input kinases and their homologs in
     year: Unknown Year
   2kfaOjwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 44
+    citations: 43
     title: The effect of microbial colonization on the host proteome varies by gastrointestinal location
     year: '2016'
   2kfaOjwAAAAJ:ULOm3_A8WrAC:
@@ -78,7 +78,7 @@ papers:
     title: Mia Jaffe
     year: Unknown Year
   2kfaOjwAAAAJ:WF5omc3nYNoC:
-    citations: 471
+    citations: 475
     title: Role of priority effects in the early-life assembly of the gut microbiota
     year: '2018'
   2kfaOjwAAAAJ:Wp0gIr-vW9MC:
@@ -86,7 +86,7 @@ papers:
     title: Recent genetic drift in the co-diversified gut bacterial symbionts of laboratory mice
     year: '2025'
   2kfaOjwAAAAJ:Y0pCki6q_DkC:
-    citations: 20
+    citations: 19
     title: Comparison of pectin-degrading fungal communities in temperate forests using glycosyl hydrolase family 28 pectinase primers targeting Ascomycete fungi
     year: '2016'
   2kfaOjwAAAAJ:YOwf2qJgpHMC:
@@ -94,11 +94,11 @@ papers:
     title: 'When microbes go missing: Understanding the impact of diversity loss within the gut microbiome'
     year: '2023'
   2kfaOjwAAAAJ:YsMSGLbcyi4C:
-    citations: 57
+    citations: 56
     title: Characterization of the facial microbiome in twins discordant for rosacea
     year: '2018'
   2kfaOjwAAAAJ:Zph67rFs4hoC:
-    citations: 59
+    citations: 58
     title: Widespread extinctions of co-diversified primate gut bacterial symbionts from humans
     year: '2023'
   2kfaOjwAAAAJ:_FxGoFyzp5QC:
@@ -150,7 +150,7 @@ papers:
     title: Evolutionary analysis of glycosyl hydrolase family 28 (GH28) suggests lineage-specific expansions in necrotrophic fungal pathogens
     year: '2011'
   2kfaOjwAAAAJ:u5HHmVD_uO8C:
-    citations: 28
+    citations: 26
     title: 'Circadian input kinases and their homologs in Cyanobacteria: evolutionary constraints versus architectural diversification'
     year: '2010'
   2kfaOjwAAAAJ:ufrVoPGSRksC:
