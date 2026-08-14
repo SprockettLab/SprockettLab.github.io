@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-14'
 papers:
   2kfaOjwAAAAJ:0EnyYjriUFMC:
     citations: 46
     title: Influential factors of saliva microbiota composition
     year: '2022'
   2kfaOjwAAAAJ:3fE2CSJIrl8C:
-    citations: 14
+    citations: 16
     title: Host genotype links to salivary and gut microbiota by periodontal status
     year: '2023'
   2kfaOjwAAAAJ:4DMP91E08xMC:
@@ -34,7 +34,7 @@ papers:
     title: Detailed longitudinal sampling of the wound microbiome reveals increased bacterial diversity with antimicrobial treatment and healing
     year: '2013'
   2kfaOjwAAAAJ:KlAtU1dfN6UC:
-    citations: 19
+    citations: 20
     title: "Convergent remodelling of the gut microbiome is associated with host energetic condition over long\u2010distance migration"
     year: '2023'
   2kfaOjwAAAAJ:LkGwnXOMwfcC:
@@ -78,11 +78,11 @@ papers:
     title: Mia Jaffe
     year: Unknown Year
   2kfaOjwAAAAJ:WF5omc3nYNoC:
-    citations: 475
+    citations: 477
     title: Role of priority effects in the early-life assembly of the gut microbiota
     year: '2018'
   2kfaOjwAAAAJ:Wp0gIr-vW9MC:
-    citations: 9
+    citations: 10
     title: Recent genetic drift in the co-diversified gut bacterial symbionts of laboratory mice
     year: '2025'
   2kfaOjwAAAAJ:Y0pCki6q_DkC:
@@ -98,7 +98,7 @@ papers:
     title: Characterization of the facial microbiome in twins discordant for rosacea
     year: '2018'
   2kfaOjwAAAAJ:Zph67rFs4hoC:
-    citations: 58
+    citations: 60
     title: Widespread extinctions of co-diversified primate gut bacterial symbionts from humans
     year: '2023'
   2kfaOjwAAAAJ:_FxGoFyzp5QC:
@@ -154,7 +154,7 @@ papers:
     title: 'Circadian input kinases and their homologs in Cyanobacteria: evolutionary constraints versus architectural diversification'
     year: '2010'
   2kfaOjwAAAAJ:ufrVoPGSRksC:
-    citations: 45
+    citations: 46
     title: "Treatment-specific composition of the gut microbiota is associated with disease remission in a pediatric Crohn\u2019s disease cohort"
     year: '2019'
   2kfaOjwAAAAJ:zYLM7Y9cAGgC:
