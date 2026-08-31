@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-31'
 papers:
   2kfaOjwAAAAJ:0EnyYjriUFMC:
     citations: 47
@@ -10,7 +10,7 @@ papers:
     title: Host genotype links to salivary and gut microbiota by periodontal status
     year: '2023'
   2kfaOjwAAAAJ:4DMP91E08xMC:
-    citations: 3
+    citations: 4
     title: Hackflex library preparation enables low-cost metagenomic profiling
     year: '2024'
   2kfaOjwAAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: Detailed longitudinal sampling of the wound microbiome reveals increased bacterial diversity with antimicrobial treatment and healing
     year: '2013'
   2kfaOjwAAAAJ:KlAtU1dfN6UC:
-    citations: 20
+    citations: 21
     title: "Convergent remodelling of the gut microbiome is associated with host energetic condition over long\u2010distance migration"
     year: '2023'
   2kfaOjwAAAAJ:LkGwnXOMwfcC:
@@ -62,7 +62,7 @@ papers:
     title: The effect of microbial colonization on the host proteome varies by gastrointestinal location
     year: '2016'
   2kfaOjwAAAAJ:ULOm3_A8WrAC:
-    citations: 26
+    citations: 27
     title: "Home-site advantage for host species\u2013specific gut microbiota"
     year: '2023'
   2kfaOjwAAAAJ:UeHWp8X0CEIC:
@@ -78,11 +78,11 @@ papers:
     title: Mia Jaffe
     year: Unknown Year
   2kfaOjwAAAAJ:WF5omc3nYNoC:
-    citations: 479
+    citations: 482
     title: Role of priority effects in the early-life assembly of the gut microbiota
     year: '2018'
   2kfaOjwAAAAJ:Wp0gIr-vW9MC:
-    citations: 10
+    citations: 11
     title: Recent genetic drift in the co-diversified gut bacterial symbionts of laboratory mice
     year: '2025'
   2kfaOjwAAAAJ:Y0pCki6q_DkC:
@@ -98,7 +98,7 @@ papers:
     title: Characterization of the facial microbiome in twins discordant for rosacea
     year: '2018'
   2kfaOjwAAAAJ:Zph67rFs4hoC:
-    citations: 59
+    citations: 61
     title: Widespread extinctions of co-diversified primate gut bacterial symbionts from humans
     year: '2023'
   2kfaOjwAAAAJ:_FxGoFyzp5QC:
@@ -134,7 +134,7 @@ papers:
     title: A cost and community perspective on the barriers to microbiome data reuse
     year: '2025'
   2kfaOjwAAAAJ:qjMakFHDy7sC:
-    citations: 30
+    citations: 31
     title: Use of 16S rRNA sequencing and quantitative PCR to correlate venous leg ulcer bacterial bioburden dynamics with wound expansion, antibiotic therapy, and healing
     year: '2015'
   2kfaOjwAAAAJ:qxL8FJ1GzNcC:
@@ -146,7 +146,7 @@ papers:
     title: Patterns and Processes of Community Assembly in the Human Microbiome
     year: '2019'
   2kfaOjwAAAAJ:u-x6o8ySG0sC:
-    citations: 80
+    citations: 81
     title: Evolutionary analysis of glycosyl hydrolase family 28 (GH28) suggests lineage-specific expansions in necrotrophic fungal pathogens
     year: '2011'
   2kfaOjwAAAAJ:u5HHmVD_uO8C:
